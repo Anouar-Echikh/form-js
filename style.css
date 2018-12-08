@@ -1,0 +1,46 @@
+#body {
+  background-image: url(blur-wallpapers-25172-4864287.jpg);
+}
+
+#header {
+  height: 20px;
+  background-color: transparent;
+  /*position: fixed;*/
+  z-index: 1;
+  opacity: 0.2;
+}
+#main {
+  background-color: transparent;
+  /*height: 500px;*/
+  z-index: -1;
+}
+#col-main {
+  background-color: transparent;
+  height: 100%;
+}
+#col2 {
+  background-color: rgb(198, 229, 243);
+  height: 100%;
+  padding-top: 20px;
+ 
+}
+#btn-submit {
+  margin-top: 15px;
+}
+#btn-reset {
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+
+#footer {
+  height: 10px;
+  background-color: transparent;
+}
+/*@media only screen and (max-width: 900px) {
+  #col1,
+  #col3 {
+    display: none;
+    
+  }
+}*/
